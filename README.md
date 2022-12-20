@@ -16,6 +16,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+### Thank you for visiting my GitHub profile
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/27505090/208727285-c01467a8-d619-49bf-a8fa-280d76ec93fd.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sujanchikkela&icon=2&color=12)](https://visitcount.itsvg.in)
 
