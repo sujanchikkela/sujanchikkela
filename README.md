@@ -1,20 +1,26 @@
 ### Hi there 👋
 # 💫 Welcome to my GitHub:
-🏅 Winner at many innovation challenges across India.<br>👨🏻‍🎓 Pursuing Master's in Software Engineering at San Jose State University.<br>👯 I’m looking to collaborate on building an Interesting Product that matters.<br>💬 Ask me about Microservices, Software Engineering, or discussion about any idea.<br>📫 How to reach me: Anytime on LinkedIn: Sujan Rao Chikkela<br>😄 Pronouns: He/Him/His<br> 
+🏅 Winner at many innovation challenges across India.<br>
+👨🏻‍🎓 Mastering the Science of Software Engineering at San Jose State University.<br>
+👯 I’m looking to collaborate on building an Interesting Product that matters.<br>
+💬 Ask me about Microservices, Software Engineering, or discussion about any idea.<br>
+📫 How to reach me: [Email](csujanrao@gmail.com) | [Linkedin](https://linkedin.com/in/sujanchikkela) | [Calendly](https://calendly.com/sujanchikkela)<br>
+🪄 Empowering creativity through code, one line at a time. <br>
+👨‍ Pronouns: He/Him/His<br> 
 
 
 ## 🌐 Socials:
 
 <p align="left">
+<a href="https://linkedin.com/in/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujanchikkela" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujanchikkela" height="30" width="40" /></a>
+<a href="https://medium.com/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sujanchikkela" height="30" width="40" /></a>
 <a href="https://dev.to/sujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sujan" height="30" width="40" /></a>
 <a href="https://twitter.com/sujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujanchikkela" height="30" width="40" /></a>
 <a href="https://fb.com/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujanchikkela" height="30" width="40" /></a>
 <a href="https://instagram.com/sujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujan" height="30" width="40" /></a>
 <a href="https://dribbble.com/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sujan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujanchikkela" height="30" width="40" /></a>
 <a href="https://www.behance.net/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sujanchikkela" height="30" width="40" /></a>
-<a href="https://medium.com/sujanchikkela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sujanchikkela" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -27,7 +33,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### Thank you for visiting my GitHub profile
+### Thank you for visiting my GitHub profile! Let's build something amazing together.
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/27505090/208727285-c01467a8-d619-49bf-a8fa-280d76ec93fd.gif)
 
 ---
